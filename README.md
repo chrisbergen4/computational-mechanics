@@ -12,7 +12,7 @@ with an [open source
 license](https://creativecommons.org/licenses/by/4.0/) so after you fork
 the repository its __yours__! You can build your own website, notebooks,
 etc. and share them with anyone you meet. Just make sure you link back
-to this course website. 
+to this course website. Test change.
 
 
 
