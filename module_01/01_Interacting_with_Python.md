@@ -246,7 +246,14 @@ Use Python (as a calculator) to solve the following two problems:
 2. Suppose the cover price of a book is $\$ 24.95$, but bookstores get a $40\%$ discount. Shipping costs $\$3$ for the first copy and $75$ cents for each additional copy. What is the total wholesale cost for $60$ copies? Compare your answer with the solution up to 2 decimal numbers.
 
 ```{code-cell} ipython3
-hello world test with akul and rahul
+r = 6.65 / 2
+v = (4/3) * 3.14159 * (r ** 3)
+print("Sphere Volume:", v, "cubic cm")
+```
+
+```{code-cell} ipython3
+cost = ((24.95 * 60 * .6) + 3 + (.75 * 59))
+print(cost)
 ```
 
 To reveal the answers, highlight the following line of text using the mouse:
@@ -299,7 +306,8 @@ y = 4.5
 Print the values of the variables `x` and `y`.
 
 ```{code-cell} ipython3
-
+print(x)
+print(y)
 ```
 
 Let's do some arithmetic operations with our new variables:
@@ -565,3 +573,7 @@ Throughout this course module, you will be drawing from the following references
 1. _Effective Computation in Physics: Field Guide to Research with Python_ (2015). Anthony Scopatz & Kathryn D. Huff. O'Reilly Media, Inc.
 2. _Python for Everybody: Exploring Data Using Python 3_ (2016). Charles R. Severance. [PDF available](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
 3. _Think Python: How to Think Like a Computer Scientist_ (2012). Allen Downey. Green Tea Press.  [PDF available](http://greenteapress.com/thinkpython/thinkpython.pdf)
+
+```{code-cell} ipython3
+
+```
