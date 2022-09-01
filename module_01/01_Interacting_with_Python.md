@@ -19,7 +19,7 @@ kernelspec:
 
 # 01 - Interacting with Python
 
-These notebooks are a combination of original work and modified
+these notebooks are a combination of original work and modified
 notebooks from [Engineers
 Code](https://github.com/engineersCode/EngComp.git) learning modules.
 The learning modules are covered under a Creative Commons License, so
