@@ -600,3 +600,7 @@ In any computational solution, there will be some point of similar diminishing i
 * How to compare solutions
 * The definition of absolute error and relative error
 * How a numerical solution converges
+
+```{code-cell} ipython3
+
+```

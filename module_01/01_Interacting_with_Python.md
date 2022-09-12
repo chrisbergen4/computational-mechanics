@@ -167,7 +167,7 @@ symbols are what you would expect, except for the
 The `%` symbol is the _modulo_ operator (divide and return the remainder), and the double-slash is _floor division_.
 
 ```{code-cell} ipython3
-2 + 2
+1 % 9
 ```
 
 ```{code-cell} ipython3

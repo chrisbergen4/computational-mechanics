@@ -386,7 +386,10 @@ Y = np.array([[1, -1], [0, 1]])
 The addition of these two matrices works exactly as you would expect:
 
 ```{code-cell} ipython3
-X + Y
+
+array = X + Y
+print(array)
+print(array[1, 0])
 ```
 
 What if you try to multiply arrays using the `'*'`operator?
